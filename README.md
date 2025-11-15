@@ -41,7 +41,6 @@ Developed by: HEMAPRIYA P RegisterNumber: 25015164
 
 
 **RTL realization**
-
 <img width="795" height="725" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/6722b0f3-2e4c-4818-82af-0945a922ad6b" />
 
 
@@ -50,7 +49,6 @@ Developed by: HEMAPRIYA P RegisterNumber: 25015164
 **RTL**
 
 **Timing Diagram**
-
 <img width="1318" height="857" alt="image" src="https://github.com/user-attachments/assets/ece33e90-8ee4-4b3c-83e4-c5254612b9e0" />
 
 
