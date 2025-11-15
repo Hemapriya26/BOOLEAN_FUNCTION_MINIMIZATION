@@ -49,7 +49,8 @@ Developed by: HEMAPRIYA P RegisterNumber: 25015164
 **RTL**
 
 **Timing Diagram**
-<img width="1318" height="857" alt="image" src="https://github.com/user-attachments/assets/ece33e90-8ee4-4b3c-83e4-c5254612b9e0" />
+
+<img width="825" height="632" alt="image" src="https://github.com/user-attachments/assets/f01542e5-882b-4030-8ba2-0a915c26b1ab" />
 
 
 **Result:**
